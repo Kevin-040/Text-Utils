@@ -1,0 +1,15 @@
+=> Single page web appication v/s Multipage web application
+=> In react , dynamically load your web page
+=> Import & Export of "Js" file
+=> Bootstrap components
+=> Function based Js
+=> Props & PropTypes
+=> states in react
+=> Enable dark mode & Light mode
+=> Margin CSS: my-2,mx-3....
+=> split() function: takes string input and make array according to logic
+
+==> Starting 
+
+1. We can write JS code in HTML by adding <script> tag
+2. 
